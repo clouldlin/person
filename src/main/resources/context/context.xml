@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<context>
+    
+    <command id="/login" class="com.lin.clould.person.login.service.LoginServiceImpl">
+    	<defaultMethod>login</defaultMethod>
+    </command>
+    
+    <command id="/main" class="com.lin.clould.person.main.service.MainServiceImpl">
+    	<defaultMethod>main</defaultMethod>
+    </command>
+    
+    <command id="/common" class="com.lin.clould.person.common.service.CommonServiceImpl">
+    	<defaultMethod>page</defaultMethod>
+    </command>
+    
+    <command id="/mypage" class="com.lin.clould.person.mypage.service.MyPageServiceImpl">
+    	<defaultMethod>mypage</defaultMethod>
+    </command>
+    
+    <command id="/bbs" class="com.lin.clould.person.bbs.service.BbsServiceImpl">
+    	<defaultMethod>bbsList</defaultMethod>
+    </command>
+    
+    <defaultViewPath>/WEB-INF/jsp/</defaultViewPath>
+    
+</context>

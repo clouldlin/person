@@ -1,0 +1,93 @@
+[2014-10-07 00:34:07,394] [INFO ] (com.lin.clould.web.command.CommandFactory:48)  - NodeList Length : 3
+ [2014-10-07 00:34:07,595] [DEBUG] (org.apache.ibatis.logging.LogFactory:124)  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ [2014-10-07 00:34:07,603] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:34:07,603] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:34:07,603] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:34:07,604] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:34:07,604] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:34:07,604] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:34:07,605] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:34:07,605] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:34:07,605] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:34:07,606] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:34:07,606] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:34:07,606] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:35:46,357] [INFO ] (com.lin.clould.web.command.CommandFactory:48)  - NodeList Length : 3
+ [2014-10-07 00:35:46,482] [DEBUG] (org.apache.ibatis.logging.LogFactory:124)  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ [2014-10-07 00:35:46,490] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:35:46,490] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:35:46,490] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:35:46,491] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:35:46,491] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:35:46,491] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:35:46,492] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:35:46,495] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:35:46,495] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:35:46,495] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:35:46,496] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:35:46,496] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:35:46,544] [INFO ] (com.lin.clould.web.FrontController:65)  - RequestURI :/main
+ [2014-10-07 00:35:46,544] [INFO ] (com.lin.clould.web.command.CommandFactory:79)  - {default-method=main, class=com.lin.clould.person.main.service.MainServiceImpl@76458f}
+ [2014-10-07 00:35:46,551] [INFO ] (com.lin.clould.web.FrontController:65)  - RequestURI :/login
+ [2014-10-07 00:35:46,552] [INFO ] (com.lin.clould.web.command.CommandFactory:79)  - {default-method=login, class=com.lin.clould.person.login.service.LoginServiceImpl@4e17f9}
+ [2014-10-07 00:36:46,281] [INFO ] (com.lin.clould.web.FrontController:65)  - RequestURI :/main
+ [2014-10-07 00:36:46,282] [INFO ] (com.lin.clould.web.command.CommandFactory:79)  - {default-method=main, class=com.lin.clould.person.main.service.MainServiceImpl@76458f}
+ [2014-10-07 00:36:46,285] [INFO ] (com.lin.clould.web.FrontController:65)  - RequestURI :/login
+ [2014-10-07 00:36:46,286] [INFO ] (com.lin.clould.web.command.CommandFactory:79)  - {default-method=login, class=com.lin.clould.person.login.service.LoginServiceImpl@4e17f9}
+ [2014-10-07 00:43:40,296] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:43:40,301] [INFO ] (com.lin.clould.web.command.CommandFactory:48)  - NodeList Length : 3
+ [2014-10-07 00:43:40,405] [DEBUG] (org.apache.ibatis.logging.LogFactory:124)  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ [2014-10-07 00:43:40,412] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:43:40,412] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:43:40,412] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:43:40,413] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:43:40,413] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:43:40,413] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:43:40,413] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:43:40,414] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:43:40,414] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:43:40,414] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:43:40,414] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:43:40,415] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:43:40,455] [INFO ] (com.lin.clould.web.FrontController:65)  - RequestURI :/main
+ [2014-10-07 00:43:40,456] [INFO ] (com.lin.clould.web.command.CommandFactory:79)  - {default-method=main, class=com.lin.clould.person.main.service.MainServiceImpl@1d0e2c9}
+ [2014-10-07 00:43:40,462] [INFO ] (com.lin.clould.web.FrontController:65)  - RequestURI :/login
+ [2014-10-07 00:43:40,462] [INFO ] (com.lin.clould.web.command.CommandFactory:79)  - {default-method=login, class=com.lin.clould.person.login.service.LoginServiceImpl@1174031}
+ [2014-10-07 00:46:44,952] [INFO ] (com.lin.clould.web.command.CommandFactory:48)  - NodeList Length : 3
+ [2014-10-07 00:46:45,053] [DEBUG] (org.apache.ibatis.logging.LogFactory:124)  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ [2014-10-07 00:46:45,061] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:46:45,061] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:46:45,062] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:46:45,062] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:46:45,062] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:46:45,062] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:46:45,062] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:46:45,063] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:46:45,063] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:46:45,063] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:46:45,063] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:46:45,063] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:46:45,100] [INFO ] (com.lin.clould.web.FrontController:65)  - RequestURI :/main
+ [2014-10-07 00:46:45,100] [INFO ] (com.lin.clould.web.command.CommandFactory:79)  - {default-method=main, class=com.lin.clould.person.main.service.MainServiceImpl@346239}
+ [2014-10-07 00:46:45,107] [INFO ] (com.lin.clould.web.FrontController:65)  - RequestURI :/login
+ [2014-10-07 00:46:45,107] [INFO ] (com.lin.clould.web.command.CommandFactory:79)  - {default-method=login, class=com.lin.clould.person.login.service.LoginServiceImpl@5afcb1}
+ [2014-10-07 00:51:33,804] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:59:32,992] [INFO ] (com.lin.clould.web.command.CommandFactory:48)  - NodeList Length : 3
+ [2014-10-07 00:59:33,169] [DEBUG] (org.apache.ibatis.logging.LogFactory:124)  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ [2014-10-07 00:59:33,177] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:59:33,178] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:59:33,178] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:59:33,178] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:59:33,179] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:59:33,179] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:59:33,179] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:59:33,180] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:59:33,180] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:59:33,180] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:59:33,180] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:59:33,181] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-07 00:59:33,227] [INFO ] (com.lin.clould.web.FrontController:65)  - RequestURI :/main
+ [2014-10-07 00:59:33,227] [INFO ] (com.lin.clould.web.command.CommandFactory:79)  - {default-method=main, class=com.lin.clould.person.main.service.MainServiceImpl@1d592a}
+ [2014-10-07 00:59:33,236] [INFO ] (com.lin.clould.web.FrontController:65)  - RequestURI :/login
+ [2014-10-07 00:59:33,237] [INFO ] (com.lin.clould.web.command.CommandFactory:79)  - {default-method=login, class=com.lin.clould.person.login.service.LoginServiceImpl@13d21d6}
+ 

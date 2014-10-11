@@ -1,0 +1,94 @@
+[2014-10-11 00:01:45,995] [INFO ] (com.lin.clould.web.command.CommandFactory:48)  - NodeList Length : 5
+ [2014-10-11 00:01:46,152] [DEBUG] (org.apache.ibatis.logging.LogFactory:124)  - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+ [2014-10-11 00:01:46,165] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:01:46,166] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:01:46,167] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:01:46,168] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:01:46,168] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:01:46,169] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:01:46,169] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:01:46,170] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:01:46,170] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:01:46,170] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:01:46,171] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:01:46,171] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:01:46,182] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:02:33,660] [INFO ] (com.lin.clould.web.command.CommandFactory:48)  - NodeList Length : 5
+ [2014-10-11 00:02:33,854] [DEBUG] (org.apache.ibatis.logging.LogFactory:124)  - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+ [2014-10-11 00:02:33,863] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:02:33,863] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:02:33,863] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:02:33,864] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:02:33,864] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:02:33,864] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:02:33,865] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:02:33,865] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:02:33,865] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:02:33,866] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:02:33,866] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:02:33,867] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:03:33,026] [INFO ] (com.lin.clould.web.command.CommandFactory:48)  - NodeList Length : 5
+ [2014-10-11 00:03:33,213] [DEBUG] (org.apache.ibatis.logging.LogFactory:124)  - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+ [2014-10-11 00:03:33,225] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:03:33,225] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:03:33,226] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:03:33,226] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:03:33,226] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:03:33,227] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:03:33,227] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:03:33,227] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:03:33,228] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:03:33,228] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:03:33,229] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:03:33,229] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:03:33,308] [INFO ] (com.lin.clould.web.command.CommandFactory:97)  - DefaultViewPath : /WEB-INF/jsp/
+ [2014-10-11 00:03:33,309] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/bbs
+ [2014-10-11 00:03:33,309] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=bbsList, class=com.lin.clould.person.bbs.service.BBSServiceImpl@59a735}
+ [2014-10-11 00:03:33,366] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:129)  - Opening JDBC Connection
+ [2014-10-11 00:03:33,586] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:378)  - Created connection 26810747.
+ [2014-10-11 00:03:33,586] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:95)  - Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@199197b]
+ [2014-10-11 00:03:33,588] [DEBUG] (query.person.bbs.BbsSqlMapper.selectBBSListByMenuId:132)  - ooo Using Connection [oracle.jdbc.driver.T4CConnection@199197b]
+ [2014-10-11 00:03:33,589] [DEBUG] (query.person.bbs.BbsSqlMapper.selectBBSListByMenuId:132)  - ==>  Preparing: SELECT T1.* FROM BOARD T1 WHERE T1.MENU_ID = ? 
+ [2014-10-11 00:03:33,694] [DEBUG] (com.lin.clould.repository.MybatisLogInterceptor:97)  - =====================================================================
+ [2014-10-11 00:03:33,698] [DEBUG] (com.lin.clould.repository.MybatisLogInterceptor:98)  - sql : SELECT T1.*
+		FROM BOARD T1
+		WHERE T1.MENU_ID = '1'
+ [2014-10-11 00:03:33,698] [DEBUG] (com.lin.clould.repository.MybatisLogInterceptor:99)  - =====================================================================
+ [2014-10-11 00:03:33,699] [DEBUG] (query.person.bbs.BbsSqlMapper.selectBBSListByMenuId:132)  - ==> Parameters: 1(String)
+ [2014-10-11 00:03:33,730] [DEBUG] (query.person.bbs.BbsSqlMapper.selectBBSListByMenuId:132)  - <==      Total: 1
+ [2014-10-11 00:03:33,732] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:117)  - Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@199197b]
+ [2014-10-11 00:03:33,733] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:85)  - Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@199197b]
+ [2014-10-11 00:03:33,733] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:332)  - Returned connection 26810747 to pool.
+ [2014-10-11 00:12:44,909] [INFO ] (com.lin.clould.web.command.CommandFactory:48)  - NodeList Length : 5
+ [2014-10-11 00:12:45,099] [DEBUG] (org.apache.ibatis.logging.LogFactory:124)  - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+ [2014-10-11 00:12:45,108] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:12:45,108] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:12:45,109] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:12:45,109] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:12:45,109] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:12:45,110] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:12:45,110] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:12:45,110] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:12:45,111] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:12:45,111] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:12:45,111] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:12:45,112] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-11 00:12:45,197] [INFO ] (com.lin.clould.web.command.CommandFactory:97)  - DefaultViewPath : /WEB-INF/jsp/
+ [2014-10-11 00:12:45,198] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/bbs
+ [2014-10-11 00:12:45,198] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=bbsList, class=com.lin.clould.person.bbs.service.BBSServiceImpl@13d21d6}
+ [2014-10-11 00:12:45,253] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:129)  - Opening JDBC Connection
+ [2014-10-11 00:12:45,462] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:378)  - Created connection 21293144.
+ [2014-10-11 00:12:45,462] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:95)  - Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@144e858]
+ [2014-10-11 00:12:45,464] [DEBUG] (query.person.bbs.BbsSqlMapper.selectBBSListByMenuId:132)  - ooo Using Connection [oracle.jdbc.driver.T4CConnection@144e858]
+ [2014-10-11 00:12:45,465] [DEBUG] (query.person.bbs.BbsSqlMapper.selectBBSListByMenuId:132)  - ==>  Preparing: SELECT T1.* FROM BOARD T1 WHERE T1.MENU_ID = ? 
+ [2014-10-11 00:12:45,577] [DEBUG] (com.lin.clould.repository.MybatisLogInterceptor:97)  - =====================================================================
+ [2014-10-11 00:12:45,579] [DEBUG] (com.lin.clould.repository.MybatisLogInterceptor:98)  - sql : SELECT T1.*
+		FROM BOARD T1
+		WHERE T1.MENU_ID = '1'
+ [2014-10-11 00:12:45,580] [DEBUG] (com.lin.clould.repository.MybatisLogInterceptor:99)  - =====================================================================
+ [2014-10-11 00:12:45,580] [DEBUG] (query.person.bbs.BbsSqlMapper.selectBBSListByMenuId:132)  - ==> Parameters: 1(String)
+ [2014-10-11 00:12:45,607] [DEBUG] (query.person.bbs.BbsSqlMapper.selectBBSListByMenuId:132)  - <==      Total: 1
+ [2014-10-11 00:12:45,609] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:117)  - Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@144e858]
+ [2014-10-11 00:12:45,610] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:85)  - Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@144e858]
+ [2014-10-11 00:12:45,610] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:332)  - Returned connection 21293144 to pool.
+ 
