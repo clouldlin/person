@@ -1,0 +1,345 @@
+[2014-10-09 22:00:33,125] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 22:00:33,127] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@144b9ff}
+ [2014-10-09 22:00:37,951] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/login
+ [2014-10-09 22:00:37,951] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=login, class=com.lin.clould.person.login.service.LoginServiceImpl@57828d}
+ [2014-10-09 22:00:37,952] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:129)  - Opening JDBC Connection
+ [2014-10-09 22:00:37,952] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:367)  - Checked out connection 29203830 from pool.
+ [2014-10-09 22:00:37,953] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:480)  - Testing connection 29203830 ...
+ [2014-10-09 22:00:38,032] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:492)  - Connection 29203830 is GOOD!
+ [2014-10-09 22:00:38,032] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:95)  - Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@1bd9d76]
+ [2014-10-09 22:00:38,033] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ooo Using Connection [oracle.jdbc.driver.T4CConnection@1bd9d76]
+ [2014-10-09 22:00:38,033] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==>  Preparing: SELECT T1.* FROM USERS T1 WHERE T1.id = ? 
+ [2014-10-09 22:00:38,033] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:97)  - =====================================================================
+ [2014-10-09 22:00:38,033] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:98)  - sql : SELECT T1.*
+		FROM USERS T1
+		WHERE T1.id = ''
+ [2014-10-09 22:00:38,034] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:99)  - =====================================================================
+ [2014-10-09 22:00:38,034] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==> Parameters: (String)
+ [2014-10-09 22:00:38,045] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - <==      Total: 0
+ [2014-10-09 22:00:38,045] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:117)  - Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@1bd9d76]
+ [2014-10-09 22:00:38,045] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:85)  - Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@1bd9d76]
+ [2014-10-09 22:00:38,046] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:332)  - Returned connection 29203830 to pool.
+ [2014-10-09 22:00:38,635] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/login
+ [2014-10-09 22:00:38,636] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=login, class=com.lin.clould.person.login.service.LoginServiceImpl@57828d}
+ [2014-10-09 22:00:38,636] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:129)  - Opening JDBC Connection
+ [2014-10-09 22:00:38,637] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:367)  - Checked out connection 29203830 from pool.
+ [2014-10-09 22:00:38,637] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:95)  - Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@1bd9d76]
+ [2014-10-09 22:00:38,637] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ooo Using Connection [oracle.jdbc.driver.T4CConnection@1bd9d76]
+ [2014-10-09 22:00:38,638] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==>  Preparing: SELECT T1.* FROM USERS T1 WHERE T1.id = ? 
+ [2014-10-09 22:00:38,638] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:97)  - =====================================================================
+ [2014-10-09 22:00:38,638] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:98)  - sql : SELECT T1.*
+		FROM USERS T1
+		WHERE T1.id = ''
+ [2014-10-09 22:00:38,639] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:99)  - =====================================================================
+ [2014-10-09 22:00:38,639] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==> Parameters: (String)
+ [2014-10-09 22:00:38,642] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - <==      Total: 0
+ [2014-10-09 22:00:38,642] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:117)  - Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@1bd9d76]
+ [2014-10-09 22:00:38,642] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:85)  - Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@1bd9d76]
+ [2014-10-09 22:00:38,643] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:332)  - Returned connection 29203830 to pool.
+ [2014-10-09 22:00:42,741] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/login
+ [2014-10-09 22:00:42,742] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=login, class=com.lin.clould.person.login.service.LoginServiceImpl@57828d}
+ [2014-10-09 22:00:42,742] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:129)  - Opening JDBC Connection
+ [2014-10-09 22:00:42,743] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:367)  - Checked out connection 29203830 from pool.
+ [2014-10-09 22:00:42,743] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:95)  - Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@1bd9d76]
+ [2014-10-09 22:00:42,743] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ooo Using Connection [oracle.jdbc.driver.T4CConnection@1bd9d76]
+ [2014-10-09 22:00:42,743] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==>  Preparing: SELECT T1.* FROM USERS T1 WHERE T1.id = ? 
+ [2014-10-09 22:00:42,744] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:97)  - =====================================================================
+ [2014-10-09 22:00:42,744] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:98)  - sql : SELECT T1.*
+		FROM USERS T1
+		WHERE T1.id = 'heo'
+ [2014-10-09 22:00:42,744] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:99)  - =====================================================================
+ [2014-10-09 22:00:42,744] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==> Parameters: heo(String)
+ [2014-10-09 22:00:42,771] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - <==      Total: 1
+ [2014-10-09 22:00:42,771] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:117)  - Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@1bd9d76]
+ [2014-10-09 22:00:42,771] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:85)  - Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@1bd9d76]
+ [2014-10-09 22:00:42,772] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:332)  - Returned connection 29203830 to pool.
+ [2014-10-09 22:00:42,772] [INFO ] (com.lin.clould.person.login.service.LoginServiceImpl:38)  - LoginVO [id=heo, pw=heo, name=허정도]
+ [2014-10-09 22:00:42,781] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 22:00:42,781] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@144b9ff}
+ [2014-10-09 22:00:50,014] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/login
+ [2014-10-09 22:00:50,015] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=login, class=com.lin.clould.person.login.service.LoginServiceImpl@57828d}
+ [2014-10-09 22:00:50,018] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 22:00:50,018] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@144b9ff}
+ [2014-10-09 22:09:55,844] [INFO ] (com.lin.clould.web.command.CommandFactory:48)  - NodeList Length : 5
+ [2014-10-09 22:09:56,097] [DEBUG] (org.apache.ibatis.logging.LogFactory:124)  - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+ [2014-10-09 22:09:56,106] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:09:56,107] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:09:56,107] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:09:56,108] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:09:56,108] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:09:56,108] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:09:56,109] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:09:56,109] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:09:56,110] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:09:56,110] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:09:56,110] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:09:56,111] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:09:56,176] [INFO ] (com.lin.clould.web.command.CommandFactory:97)  - DefaultViewPath : /WEB-INF/jsp/
+ [2014-10-09 22:09:56,177] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 22:09:56,177] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@18f7701}
+ [2014-10-09 22:09:59,337] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:09:59,338] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@e2b9e5}
+ [2014-10-09 22:10:28,575] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:10:30,601] [INFO ] (com.lin.clould.web.command.CommandFactory:48)  - NodeList Length : 5
+ [2014-10-09 22:10:30,725] [DEBUG] (org.apache.ibatis.logging.LogFactory:124)  - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+ [2014-10-09 22:10:30,734] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:10:30,734] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:10:30,735] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:10:30,735] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:10:30,735] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:10:30,735] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:10:30,736] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:10:30,736] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:10:30,736] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:10:30,737] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:10:30,737] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:10:30,737] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:10:30,796] [INFO ] (com.lin.clould.web.command.CommandFactory:97)  - DefaultViewPath : /WEB-INF/jsp/
+ [2014-10-09 22:10:30,797] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 22:10:30,797] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@16feee5}
+ [2014-10-09 22:10:36,831] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:10:36,832] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@c65fb1}
+ [2014-10-09 22:12:39,891] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:15:41,595] [INFO ] (com.lin.clould.web.command.CommandFactory:48)  - NodeList Length : 5
+ [2014-10-09 22:15:41,724] [DEBUG] (org.apache.ibatis.logging.LogFactory:124)  - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+ [2014-10-09 22:15:41,732] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:15:41,732] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:15:41,733] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:15:41,733] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:15:41,733] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:15:41,733] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:15:41,734] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:15:41,734] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:15:41,734] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:15:41,735] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:15:41,735] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:15:41,735] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:15:41,795] [INFO ] (com.lin.clould.web.command.CommandFactory:97)  - DefaultViewPath : /WEB-INF/jsp/
+ [2014-10-09 22:15:41,796] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:15:41,796] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@19eef79}
+ [2014-10-09 22:16:19,103] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:16:19,103] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@19eef79}
+ [2014-10-09 22:17:06,960] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:17:06,960] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@19eef79}
+ [2014-10-09 22:17:59,819] [INFO ] (com.lin.clould.web.command.CommandFactory:48)  - NodeList Length : 5
+ [2014-10-09 22:17:59,941] [DEBUG] (org.apache.ibatis.logging.LogFactory:124)  - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+ [2014-10-09 22:17:59,952] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:17:59,952] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:17:59,953] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:17:59,953] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:17:59,953] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:17:59,953] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:17:59,953] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:17:59,953] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:17:59,954] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:17:59,954] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:17:59,954] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:17:59,954] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:18:00,016] [INFO ] (com.lin.clould.web.command.CommandFactory:97)  - DefaultViewPath : /WEB-INF/jsp/
+ [2014-10-09 22:18:00,016] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:18:00,016] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@7df42c}
+ [2014-10-09 22:18:32,584] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/login
+ [2014-10-09 22:18:32,584] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=login, class=com.lin.clould.person.login.service.LoginServiceImpl@8721bd}
+ [2014-10-09 22:18:32,637] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:129)  - Opening JDBC Connection
+ [2014-10-09 22:18:32,874] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:378)  - Created connection 25691895.
+ [2014-10-09 22:18:32,874] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:95)  - Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@18806f7]
+ [2014-10-09 22:18:32,876] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ooo Using Connection [oracle.jdbc.driver.T4CConnection@18806f7]
+ [2014-10-09 22:18:32,877] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==>  Preparing: SELECT T1.* FROM USERS T1 WHERE T1.id = ? 
+ [2014-10-09 22:18:33,016] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 22:18:33,064] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:97)  - =====================================================================
+ [2014-10-09 22:18:33,066] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:98)  - sql : SELECT T1.*
+		FROM USERS T1
+		WHERE T1.id = ''
+ [2014-10-09 22:18:33,066] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:99)  - =====================================================================
+ [2014-10-09 22:18:33,067] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==> Parameters: (String)
+ [2014-10-09 22:18:33,089] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - <==      Total: 0
+ [2014-10-09 22:18:33,091] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:117)  - Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@18806f7]
+ [2014-10-09 22:18:33,092] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:85)  - Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@18806f7]
+ [2014-10-09 22:18:33,092] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:332)  - Returned connection 25691895 to pool.
+ [2014-10-09 22:18:36,749] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/login
+ [2014-10-09 22:18:36,749] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=login, class=com.lin.clould.person.login.service.LoginServiceImpl@8721bd}
+ [2014-10-09 22:18:36,750] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:129)  - Opening JDBC Connection
+ [2014-10-09 22:18:36,750] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:367)  - Checked out connection 25691895 from pool.
+ [2014-10-09 22:18:36,750] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:95)  - Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@18806f7]
+ [2014-10-09 22:18:36,750] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ooo Using Connection [oracle.jdbc.driver.T4CConnection@18806f7]
+ [2014-10-09 22:18:36,750] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==>  Preparing: SELECT T1.* FROM USERS T1 WHERE T1.id = ? 
+ [2014-10-09 22:18:36,751] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:97)  - =====================================================================
+ [2014-10-09 22:18:36,751] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:98)  - sql : SELECT T1.*
+		FROM USERS T1
+		WHERE T1.id = 'heo'
+ [2014-10-09 22:18:36,751] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:99)  - =====================================================================
+ [2014-10-09 22:18:36,751] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==> Parameters: heo(String)
+ [2014-10-09 22:18:36,754] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - <==      Total: 1
+ [2014-10-09 22:18:36,754] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:117)  - Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@18806f7]
+ [2014-10-09 22:18:36,754] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:85)  - Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@18806f7]
+ [2014-10-09 22:18:36,755] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:332)  - Returned connection 25691895 to pool.
+ [2014-10-09 22:18:36,755] [INFO ] (com.lin.clould.person.login.service.LoginServiceImpl:38)  - LoginVO [id=heo, pw=heo, name=허정도]
+ [2014-10-09 22:18:36,758] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 22:18:36,758] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@68bcef}
+ [2014-10-09 22:18:37,997] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:18:37,998] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@7df42c}
+ [2014-10-09 22:20:40,990] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:20:40,990] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@7df42c}
+ [2014-10-09 22:20:43,644] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:20:43,645] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@7df42c}
+ [2014-10-09 22:21:31,796] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:21:31,796] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@7df42c}
+ [2014-10-09 22:22:32,465] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/login
+ [2014-10-09 22:22:32,465] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=login, class=com.lin.clould.person.login.service.LoginServiceImpl@8721bd}
+ [2014-10-09 22:22:32,471] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 22:22:32,472] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@68bcef}
+ [2014-10-09 22:22:50,352] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 22:22:50,352] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@68bcef}
+ [2014-10-09 22:22:54,084] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/login
+ [2014-10-09 22:22:54,084] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=login, class=com.lin.clould.person.login.service.LoginServiceImpl@8721bd}
+ [2014-10-09 22:22:54,086] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:129)  - Opening JDBC Connection
+ [2014-10-09 22:22:54,086] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:367)  - Checked out connection 25691895 from pool.
+ [2014-10-09 22:22:54,087] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:480)  - Testing connection 25691895 ...
+ [2014-10-09 22:22:54,114] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:492)  - Connection 25691895 is GOOD!
+ [2014-10-09 22:22:54,114] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:95)  - Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@18806f7]
+ [2014-10-09 22:22:54,115] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ooo Using Connection [oracle.jdbc.driver.T4CConnection@18806f7]
+ [2014-10-09 22:22:54,115] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==>  Preparing: SELECT T1.* FROM USERS T1 WHERE T1.id = ? 
+ [2014-10-09 22:22:54,116] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:97)  - =====================================================================
+ [2014-10-09 22:22:54,116] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:98)  - sql : SELECT T1.*
+		FROM USERS T1
+		WHERE T1.id = ''
+ [2014-10-09 22:22:54,116] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:99)  - =====================================================================
+ [2014-10-09 22:22:54,117] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==> Parameters: (String)
+ [2014-10-09 22:22:54,119] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - <==      Total: 0
+ [2014-10-09 22:22:54,119] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:117)  - Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@18806f7]
+ [2014-10-09 22:22:54,119] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:85)  - Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@18806f7]
+ [2014-10-09 22:22:54,120] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:332)  - Returned connection 25691895 to pool.
+ [2014-10-09 22:22:58,574] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/login
+ [2014-10-09 22:22:58,575] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=login, class=com.lin.clould.person.login.service.LoginServiceImpl@8721bd}
+ [2014-10-09 22:22:58,576] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:129)  - Opening JDBC Connection
+ [2014-10-09 22:22:58,576] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:367)  - Checked out connection 25691895 from pool.
+ [2014-10-09 22:22:58,577] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:95)  - Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@18806f7]
+ [2014-10-09 22:22:58,577] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ooo Using Connection [oracle.jdbc.driver.T4CConnection@18806f7]
+ [2014-10-09 22:22:58,578] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==>  Preparing: SELECT T1.* FROM USERS T1 WHERE T1.id = ? 
+ [2014-10-09 22:22:58,578] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:97)  - =====================================================================
+ [2014-10-09 22:22:58,579] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:98)  - sql : SELECT T1.*
+		FROM USERS T1
+		WHERE T1.id = 'heo'
+ [2014-10-09 22:22:58,579] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:99)  - =====================================================================
+ [2014-10-09 22:22:58,580] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==> Parameters: heo(String)
+ [2014-10-09 22:22:58,583] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - <==      Total: 1
+ [2014-10-09 22:22:58,584] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:117)  - Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@18806f7]
+ [2014-10-09 22:22:58,585] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:85)  - Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@18806f7]
+ [2014-10-09 22:22:58,585] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:332)  - Returned connection 25691895 to pool.
+ [2014-10-09 22:22:58,585] [INFO ] (com.lin.clould.person.login.service.LoginServiceImpl:38)  - LoginVO [id=heo, pw=heo, name=허정도]
+ [2014-10-09 22:22:58,591] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 22:22:58,591] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@68bcef}
+ [2014-10-09 22:23:00,081] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:23:00,082] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@7df42c}
+ [2014-10-09 22:23:35,579] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:23:35,579] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@7df42c}
+ [2014-10-09 22:23:37,287] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:23:37,287] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@7df42c}
+ [2014-10-09 22:23:38,522] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:23:38,523] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@7df42c}
+ [2014-10-09 22:23:50,108] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/login
+ [2014-10-09 22:23:50,108] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=login, class=com.lin.clould.person.login.service.LoginServiceImpl@8721bd}
+ [2014-10-09 22:23:50,111] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 22:23:50,111] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@68bcef}
+ [2014-10-09 22:23:52,098] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:23:52,098] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@7df42c}
+ [2014-10-09 22:23:54,253] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/login
+ [2014-10-09 22:23:54,253] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=login, class=com.lin.clould.person.login.service.LoginServiceImpl@8721bd}
+ [2014-10-09 22:23:54,253] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:129)  - Opening JDBC Connection
+ [2014-10-09 22:23:54,253] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:367)  - Checked out connection 25691895 from pool.
+ [2014-10-09 22:23:54,254] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:480)  - Testing connection 25691895 ...
+ [2014-10-09 22:23:54,256] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:492)  - Connection 25691895 is GOOD!
+ [2014-10-09 22:23:54,256] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:95)  - Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@18806f7]
+ [2014-10-09 22:23:54,256] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ooo Using Connection [oracle.jdbc.driver.T4CConnection@18806f7]
+ [2014-10-09 22:23:54,257] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==>  Preparing: SELECT T1.* FROM USERS T1 WHERE T1.id = ? 
+ [2014-10-09 22:23:54,257] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:97)  - =====================================================================
+ [2014-10-09 22:23:54,257] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:98)  - sql : SELECT T1.*
+		FROM USERS T1
+		WHERE T1.id = ''
+ [2014-10-09 22:23:54,258] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:99)  - =====================================================================
+ [2014-10-09 22:23:54,258] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==> Parameters: (String)
+ [2014-10-09 22:23:54,261] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - <==      Total: 0
+ [2014-10-09 22:23:54,261] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:117)  - Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@18806f7]
+ [2014-10-09 22:23:54,261] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:85)  - Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@18806f7]
+ [2014-10-09 22:23:54,261] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:332)  - Returned connection 25691895 to pool.
+ [2014-10-09 22:23:59,259] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/login
+ [2014-10-09 22:23:59,259] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=login, class=com.lin.clould.person.login.service.LoginServiceImpl@8721bd}
+ [2014-10-09 22:23:59,260] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:129)  - Opening JDBC Connection
+ [2014-10-09 22:23:59,260] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:367)  - Checked out connection 25691895 from pool.
+ [2014-10-09 22:23:59,260] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:95)  - Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@18806f7]
+ [2014-10-09 22:23:59,260] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ooo Using Connection [oracle.jdbc.driver.T4CConnection@18806f7]
+ [2014-10-09 22:23:59,261] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==>  Preparing: SELECT T1.* FROM USERS T1 WHERE T1.id = ? 
+ [2014-10-09 22:23:59,261] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:97)  - =====================================================================
+ [2014-10-09 22:23:59,261] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:98)  - sql : SELECT T1.*
+		FROM USERS T1
+		WHERE T1.id = 'heo'
+ [2014-10-09 22:23:59,261] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:99)  - =====================================================================
+ [2014-10-09 22:23:59,262] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==> Parameters: heo(String)
+ [2014-10-09 22:23:59,264] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - <==      Total: 1
+ [2014-10-09 22:23:59,265] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:117)  - Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@18806f7]
+ [2014-10-09 22:23:59,265] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:85)  - Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@18806f7]
+ [2014-10-09 22:23:59,265] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:332)  - Returned connection 25691895 to pool.
+ [2014-10-09 22:23:59,265] [INFO ] (com.lin.clould.person.login.service.LoginServiceImpl:38)  - LoginVO [id=heo, pw=heo, name=허정도]
+ [2014-10-09 22:23:59,268] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 22:23:59,268] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@68bcef}
+ [2014-10-09 22:24:32,396] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:24:32,397] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@7df42c}
+ [2014-10-09 22:25:00,379] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:25:00,379] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@7df42c}
+ [2014-10-09 22:25:28,445] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:25:28,445] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@7df42c}
+ [2014-10-09 22:25:51,012] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/login
+ [2014-10-09 22:25:51,012] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=login, class=com.lin.clould.person.login.service.LoginServiceImpl@8721bd}
+ [2014-10-09 22:25:51,015] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 22:25:51,015] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@68bcef}
+ [2014-10-09 22:31:09,440] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:31:09,440] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@7df42c}
+ [2014-10-09 22:35:23,239] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:35:23,239] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@7df42c}
+ [2014-10-09 22:36:34,727] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:36:34,727] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@7df42c}
+ [2014-10-09 22:36:59,304] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:36:59,304] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@7df42c}
+ [2014-10-09 22:37:37,749] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:37:37,749] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@7df42c}
+ [2014-10-09 22:38:57,058] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 22:38:57,058] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@68bcef}
+ [2014-10-09 22:47:23,651] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 22:47:23,651] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@68bcef}
+ [2014-10-09 22:48:07,361] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 22:48:07,361] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@68bcef}
+ [2014-10-09 22:48:52,674] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 22:48:52,674] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@68bcef}
+ [2014-10-09 22:49:02,255] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:49:02,255] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@7df42c}
+ [2014-10-09 22:49:21,057] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:49:21,058] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@7df42c}
+ [2014-10-09 22:49:41,503] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:49:41,504] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@7df42c}
+ [2014-10-09 22:49:57,648] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:49:57,648] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@7df42c}
+ [2014-10-09 22:54:51,262] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:54:51,262] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@7df42c}
+ [2014-10-09 22:55:24,688] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:55:24,688] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@7df42c}
+ [2014-10-09 22:55:26,367] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 22:55:26,367] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@68bcef}
+ [2014-10-09 22:55:37,319] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/dataroom
+ [2014-10-09 22:55:37,320] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=dataroom, class=com.lin.clould.person.dataroom.service.DataRoomServiceImpl@7df42c}
+ [2014-10-09 22:56:09,010] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 22:56:09,010] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@68bcef}
+ [2014-10-09 22:58:51,423] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 22:58:51,423] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@68bcef}
+ [2014-10-09 22:58:53,852] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 22:58:53,852] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@68bcef}
+ [2014-10-09 22:58:54,668] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 22:58:54,668] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@68bcef}
+ [2014-10-09 22:58:55,225] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 22:58:55,225] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@68bcef}
+ [2014-10-09 22:58:55,391] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 22:58:55,391] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@68bcef}
+ [2014-10-09 22:59:37,308] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 22:59:37,309] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@68bcef}
+ [2014-10-09 22:59:57,147] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 22:59:57,148] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@68bcef}
+ 

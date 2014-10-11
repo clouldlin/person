@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="query.person.login.LoginSqlMapper">
+    
+	<select id="selectUserById" parameterType="java.lang.String" resultType="com.lin.clould.person.login.dao.vo.LoginVO">
+		SELECT T1.*
+		FROM USERS T1
+		WHERE T1.id = #{id}
+	</select>
+</mapper>

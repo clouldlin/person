@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="query.person.bbs.BbsSqlMapper">
+    
+    <resultMap id="BoardMap" type="java.util.HashMap">
+	    <result property="boardSeq" column="BOARD_SEQ" javaType="java.lang.String" jdbcType="VARCHAR" />
+	    <result property="regId" column="REG_ID" javaType="java.lang.String" jdbcType="VARCHAR" />
+	    <result property="updId" column="UPD_ID" javaType="java.lang.String" jdbcType="VARCHAR" />
+	    <result property="title" column="TITLE" javaType="java.lang.String" jdbcType="VARCHAR" />
+	    <result property="content" column="CONTENT" javaType="java.lang.String" jdbcType="CLOB" />
+	    <result property="regDate" column="REG_DATE" javaType="java.util.Date" jdbcType="DATE" />
+	    <result property="updDate" column="UPD_DATE" javaType="java.util.Date" jdbcType="DATE" />
+	    <result property="menuId" column="MENU_ID" javaType="java.lang.String" jdbcType="VARCHAR" />
+	</resultMap>
+    
+    
+	<select id="selectBBSListByMenuId" parameterType="java.lang.String" resultMap="BoardMap">
+		SELECT T1.*
+		FROM BOARD T1
+		WHERE T1.MENU_ID = #{menuId}
+	</select>
+</mapper>

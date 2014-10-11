@@ -1,0 +1,676 @@
+[2014-10-09 13:02:09,973] [INFO ] (com.lin.clould.web.command.CommandFactory:49)  - NodeList Length : 3
+ [2014-10-09 13:02:10,181] [DEBUG] (org.apache.ibatis.logging.LogFactory:124)  - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+ [2014-10-09 13:02:10,189] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:02:10,190] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:02:10,190] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:02:10,190] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:02:10,191] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:02:10,191] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:02:10,192] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:02:10,192] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:02:10,192] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:02:10,192] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:02:10,193] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:02:10,193] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:02:10,247] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 13:02:10,248] [INFO ] (com.lin.clould.web.command.CommandFactory:83)  - {defaultMethod=page, class=com.lin.clould.person.common.service.CommonServiceImpl@19bd735}
+ [2014-10-09 13:05:02,798] [INFO ] (com.lin.clould.web.command.CommandFactory:48)  - NodeList Length : 3
+ [2014-10-09 13:05:02,998] [DEBUG] (org.apache.ibatis.logging.LogFactory:124)  - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+ [2014-10-09 13:05:03,010] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:05:03,011] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:05:03,011] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:05:03,011] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:05:03,012] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:05:03,012] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:05:03,012] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:05:03,013] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:05:03,013] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:05:03,014] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:05:03,014] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:05:03,015] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:05:03,072] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 13:05:03,072] [INFO ] (com.lin.clould.web.command.CommandFactory:81)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@107f742}
+ [2014-10-09 13:05:03,083] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/login
+ [2014-10-09 13:05:03,084] [INFO ] (com.lin.clould.web.command.CommandFactory:81)  - {defaultMethod=login, class=com.lin.clould.person.login.service.LoginServiceImpl@1435ec9}
+ [2014-10-09 13:05:03,130] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:129)  - Opening JDBC Connection
+ [2014-10-09 13:05:03,142] [DEBUG] (log4jdbc.debug:506)  - ... log4jdbc initializing ...
+ [2014-10-09 13:05:03,143] [DEBUG] (log4jdbc.debug:506)  -   log4jdbc.properties not found on classpath
+ [2014-10-09 13:05:03,143] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.debug.stack.prefix is not defined
+ [2014-10-09 13:05:03,143] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.sqltiming.warn.threshold is not defined
+ [2014-10-09 13:05:03,144] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.sqltiming.error.threshold is not defined
+ [2014-10-09 13:05:03,144] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.booleanastruefalse is not defined (using default value false)
+ [2014-10-09 13:05:03,144] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.maxlinelength is not defined (using default of 90)
+ [2014-10-09 13:05:03,145] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.fulldebugstacktrace is not defined (using default value false)
+ [2014-10-09 13:05:03,145] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.statement.warn is not defined (using default value false)
+ [2014-10-09 13:05:03,145] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.select is not defined (using default value true)
+ [2014-10-09 13:05:03,146] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.insert is not defined (using default value true)
+ [2014-10-09 13:05:03,146] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.update is not defined (using default value true)
+ [2014-10-09 13:05:03,146] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.delete is not defined (using default value true)
+ [2014-10-09 13:05:03,146] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.create is not defined (using default value true)
+ [2014-10-09 13:05:03,147] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.addsemicolon is not defined (using default value false)
+ [2014-10-09 13:05:03,147] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.auto.load.popular.drivers is not defined (using default value true)
+ [2014-10-09 13:05:03,147] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.trim.sql is not defined (using default value true)
+ [2014-10-09 13:05:03,147] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.suppress.generated.keys.exception is not defined (using default value false)
+ [2014-10-09 13:05:03,147] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.drivers is not defined
+ [2014-10-09 13:05:03,153] [DEBUG] (log4jdbc.debug:506)  -   FOUND DRIVER oracle.jdbc.OracleDriver
+ [2014-10-09 13:05:03,153] [DEBUG] (log4jdbc.debug:506)  -   FOUND DRIVER oracle.jdbc.driver.OracleDriver
+ [2014-10-09 13:05:03,156] [DEBUG] (log4jdbc.debug:506)  - ... log4jdbc initialized! ...
+ [2014-10-09 13:05:03,398] [INFO ] (jdbc.connection:518)  - 1. Connection opened  java.sql.DriverManager.getConnection(DriverManager.java:582)
+ [2014-10-09 13:05:03,399] [DEBUG] (jdbc.connection:520)  - open connections:  1 (1)
+ [2014-10-09 13:05:03,403] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:378)  - Created connection 16253147.
+ [2014-10-09 13:05:03,404] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:95)  - Setting autocommit to false on JDBC Connection [net.sf.log4jdbc.ConnectionSpy@f800db]
+ [2014-10-09 13:05:03,406] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ooo Using Connection [net.sf.log4jdbc.ConnectionSpy@f800db]
+ [2014-10-09 13:05:03,407] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==>  Preparing: SELECT T1.* FROM USERS T1 WHERE T1.id = ? 
+ [2014-10-09 13:05:03,523] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==> Parameters: (String)
+ [2014-10-09 13:05:03,577] [DEBUG] (jdbc.sqltiming:352)  -  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+1. SELECT T1.* FROM USERS T1 WHERE T1.id = ''  {executed in 53 msec}
+ [2014-10-09 13:05:03,606] [INFO ] (jdbc.resultsettable:108)  - |---|---|-----|
+ [2014-10-09 13:05:03,606] [INFO ] (jdbc.resultsettable:108)  - |ID |PW |NAME |
+ [2014-10-09 13:05:03,607] [INFO ] (jdbc.resultsettable:108)  - |---|---|-----|
+ [2014-10-09 13:05:03,607] [INFO ] (jdbc.resultsettable:108)  - |---|---|-----|
+ [2014-10-09 13:05:03,607] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - <==      Total: 0
+ [2014-10-09 13:05:03,609] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:117)  - Resetting autocommit to true on JDBC Connection [net.sf.log4jdbc.ConnectionSpy@f800db]
+ [2014-10-09 13:05:03,610] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:85)  - Closing JDBC Connection [net.sf.log4jdbc.ConnectionSpy@f800db]
+ [2014-10-09 13:05:03,610] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:332)  - Returned connection 16253147 to pool.
+ [2014-10-09 13:05:24,956] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/login
+ [2014-10-09 13:05:24,965] [INFO ] (com.lin.clould.web.command.CommandFactory:81)  - {defaultMethod=login, class=com.lin.clould.person.login.service.LoginServiceImpl@1435ec9}
+ [2014-10-09 13:05:24,966] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:129)  - Opening JDBC Connection
+ [2014-10-09 13:05:24,967] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:367)  - Checked out connection 16253147 from pool.
+ [2014-10-09 13:05:24,967] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:95)  - Setting autocommit to false on JDBC Connection [net.sf.log4jdbc.ConnectionSpy@f800db]
+ [2014-10-09 13:05:24,968] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ooo Using Connection [net.sf.log4jdbc.ConnectionSpy@f800db]
+ [2014-10-09 13:05:24,968] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==>  Preparing: SELECT T1.* FROM USERS T1 WHERE T1.id = ? 
+ [2014-10-09 13:05:24,969] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==> Parameters: heo(String)
+ [2014-10-09 13:05:25,035] [DEBUG] (jdbc.sqltiming:352)  -  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+1. SELECT T1.* FROM USERS T1 WHERE T1.id = 'heo'  {executed in 65 msec}
+ [2014-10-09 13:05:25,037] [INFO ] (jdbc.resultsettable:108)  - |----|----|-----|
+ [2014-10-09 13:05:25,038] [INFO ] (jdbc.resultsettable:108)  - |ID  |PW  |NAME |
+ [2014-10-09 13:05:25,038] [INFO ] (jdbc.resultsettable:108)  - |----|----|-----|
+ [2014-10-09 13:05:25,039] [INFO ] (jdbc.resultsettable:108)  - |heo |heo |허정도  |
+ [2014-10-09 13:05:25,039] [INFO ] (jdbc.resultsettable:108)  - |----|----|-----|
+ [2014-10-09 13:05:25,039] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - <==      Total: 1
+ [2014-10-09 13:05:25,040] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:117)  - Resetting autocommit to true on JDBC Connection [net.sf.log4jdbc.ConnectionSpy@f800db]
+ [2014-10-09 13:05:25,040] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:85)  - Closing JDBC Connection [net.sf.log4jdbc.ConnectionSpy@f800db]
+ [2014-10-09 13:05:25,040] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:332)  - Returned connection 16253147 to pool.
+ [2014-10-09 13:05:25,040] [INFO ] (com.lin.clould.person.login.service.LoginServiceImpl:38)  - LoginVO [id=heo, pw=heo, name=허정도]
+ [2014-10-09 13:05:25,045] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 13:05:25,045] [INFO ] (com.lin.clould.web.command.CommandFactory:81)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@107f742}
+ [2014-10-09 13:17:41,845] [INFO ] (jdbc.connection:537)  - 1. Connection closed  org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:297)
+ [2014-10-09 13:17:41,845] [DEBUG] (jdbc.connection:539)  - open connections:  none
+ [2014-10-09 13:26:00,331] [INFO ] (com.lin.clould.web.command.CommandFactory:48)  - NodeList Length : 3
+ [2014-10-09 13:26:00,464] [DEBUG] (org.apache.ibatis.logging.LogFactory:124)  - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+ [2014-10-09 13:26:00,472] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:26:00,473] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:26:00,473] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:26:00,473] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:26:00,474] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:26:00,474] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:26:00,475] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:26:00,475] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:26:00,475] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:26:00,476] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:26:00,476] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:26:00,476] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:26:00,537] [INFO ] (com.lin.clould.web.command.CommandFactory:97)  - DefaultViewPath : /WEB-INF/jsp/
+ [2014-10-09 13:26:00,538] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 13:26:00,538] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@1ca5df9}
+ [2014-10-09 13:26:00,548] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/login
+ [2014-10-09 13:26:00,549] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=login, class=com.lin.clould.person.login.service.LoginServiceImpl@b34646}
+ [2014-10-09 13:26:00,598] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:129)  - Opening JDBC Connection
+ [2014-10-09 13:26:00,602] [DEBUG] (log4jdbc.debug:506)  - ... log4jdbc initializing ...
+ [2014-10-09 13:26:00,603] [DEBUG] (log4jdbc.debug:506)  -   log4jdbc.properties not found on classpath
+ [2014-10-09 13:26:00,604] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.debug.stack.prefix is not defined
+ [2014-10-09 13:26:00,604] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.sqltiming.warn.threshold is not defined
+ [2014-10-09 13:26:00,604] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.sqltiming.error.threshold is not defined
+ [2014-10-09 13:26:00,605] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.booleanastruefalse is not defined (using default value false)
+ [2014-10-09 13:26:00,605] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.maxlinelength is not defined (using default of 90)
+ [2014-10-09 13:26:00,605] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.fulldebugstacktrace is not defined (using default value false)
+ [2014-10-09 13:26:00,605] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.statement.warn is not defined (using default value false)
+ [2014-10-09 13:26:00,606] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.select is not defined (using default value true)
+ [2014-10-09 13:26:00,606] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.insert is not defined (using default value true)
+ [2014-10-09 13:26:00,609] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.update is not defined (using default value true)
+ [2014-10-09 13:26:00,609] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.delete is not defined (using default value true)
+ [2014-10-09 13:26:00,610] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.create is not defined (using default value true)
+ [2014-10-09 13:26:00,610] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.addsemicolon is not defined (using default value false)
+ [2014-10-09 13:26:00,610] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.auto.load.popular.drivers is not defined (using default value true)
+ [2014-10-09 13:26:00,610] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.trim.sql is not defined (using default value true)
+ [2014-10-09 13:26:00,610] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.suppress.generated.keys.exception is not defined (using default value false)
+ [2014-10-09 13:26:00,611] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.drivers is not defined
+ [2014-10-09 13:26:00,615] [DEBUG] (log4jdbc.debug:506)  -   FOUND DRIVER oracle.jdbc.OracleDriver
+ [2014-10-09 13:26:00,616] [DEBUG] (log4jdbc.debug:506)  -   FOUND DRIVER oracle.jdbc.driver.OracleDriver
+ [2014-10-09 13:26:00,619] [DEBUG] (log4jdbc.debug:506)  - ... log4jdbc initialized! ...
+ [2014-10-09 13:26:00,820] [INFO ] (jdbc.connection:518)  - 1. Connection opened  java.sql.DriverManager.getConnection(DriverManager.java:582)
+ [2014-10-09 13:26:00,820] [DEBUG] (jdbc.connection:520)  - open connections:  1 (1)
+ [2014-10-09 13:26:00,827] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:378)  - Created connection 26607396.
+ [2014-10-09 13:26:00,827] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:95)  - Setting autocommit to false on JDBC Connection [net.sf.log4jdbc.ConnectionSpy@195ff24]
+ [2014-10-09 13:26:00,829] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ooo Using Connection [net.sf.log4jdbc.ConnectionSpy@195ff24]
+ [2014-10-09 13:26:00,830] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==>  Preparing: SELECT T1.* FROM USERS T1 WHERE T1.id = ? 
+ [2014-10-09 13:26:00,988] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==> Parameters: (String)
+ [2014-10-09 13:26:00,994] [DEBUG] (jdbc.sqltiming:352)  -  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+1. SELECT T1.* FROM USERS T1 WHERE T1.id = ''  {executed in 6 msec}
+ [2014-10-09 13:26:01,017] [INFO ] (jdbc.resultsettable:108)  - |---|---|-----|
+ [2014-10-09 13:26:01,017] [INFO ] (jdbc.resultsettable:108)  - |ID |PW |NAME |
+ [2014-10-09 13:26:01,018] [INFO ] (jdbc.resultsettable:108)  - |---|---|-----|
+ [2014-10-09 13:26:01,018] [INFO ] (jdbc.resultsettable:108)  - |---|---|-----|
+ [2014-10-09 13:26:01,018] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - <==      Total: 0
+ [2014-10-09 13:26:01,021] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:117)  - Resetting autocommit to true on JDBC Connection [net.sf.log4jdbc.ConnectionSpy@195ff24]
+ [2014-10-09 13:26:01,021] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:85)  - Closing JDBC Connection [net.sf.log4jdbc.ConnectionSpy@195ff24]
+ [2014-10-09 13:26:01,021] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:332)  - Returned connection 26607396 to pool.
+ [2014-10-09 13:27:24,957] [INFO ] (com.lin.clould.web.command.CommandFactory:48)  - NodeList Length : 3
+ [2014-10-09 13:27:25,146] [DEBUG] (org.apache.ibatis.logging.LogFactory:124)  - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+ [2014-10-09 13:27:25,154] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:27:25,155] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:27:25,155] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:27:25,155] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:27:25,156] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:27:25,156] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:27:25,156] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:27:25,157] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:27:25,157] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:27:25,158] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:27:25,158] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:27:25,159] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:27:25,214] [INFO ] (com.lin.clould.web.command.CommandFactory:97)  - DefaultViewPath : /WEB-INF/jsp/
+ [2014-10-09 13:27:25,215] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/login
+ [2014-10-09 13:27:25,215] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=login, class=com.lin.clould.person.login.service.LoginServiceImpl@4e17f9}
+ [2014-10-09 13:27:25,266] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:129)  - Opening JDBC Connection
+ [2014-10-09 13:27:25,270] [DEBUG] (log4jdbc.debug:506)  - ... log4jdbc initializing ...
+ [2014-10-09 13:27:25,273] [DEBUG] (log4jdbc.debug:506)  -   log4jdbc.properties not found on classpath
+ [2014-10-09 13:27:25,274] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.debug.stack.prefix is not defined
+ [2014-10-09 13:27:25,274] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.sqltiming.warn.threshold is not defined
+ [2014-10-09 13:27:25,274] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.sqltiming.error.threshold is not defined
+ [2014-10-09 13:27:25,275] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.booleanastruefalse is not defined (using default value false)
+ [2014-10-09 13:27:25,275] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.maxlinelength is not defined (using default of 90)
+ [2014-10-09 13:27:25,275] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.fulldebugstacktrace is not defined (using default value false)
+ [2014-10-09 13:27:25,276] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.statement.warn is not defined (using default value false)
+ [2014-10-09 13:27:25,276] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.select is not defined (using default value true)
+ [2014-10-09 13:27:25,276] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.insert is not defined (using default value true)
+ [2014-10-09 13:27:25,276] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.update is not defined (using default value true)
+ [2014-10-09 13:27:25,277] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.delete is not defined (using default value true)
+ [2014-10-09 13:27:25,277] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.create is not defined (using default value true)
+ [2014-10-09 13:27:25,277] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.addsemicolon is not defined (using default value false)
+ [2014-10-09 13:27:25,277] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.auto.load.popular.drivers is not defined (using default value true)
+ [2014-10-09 13:27:25,278] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.trim.sql is not defined (using default value true)
+ [2014-10-09 13:27:25,278] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.suppress.generated.keys.exception is not defined (using default value false)
+ [2014-10-09 13:27:25,278] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.drivers is not defined
+ [2014-10-09 13:27:25,283] [DEBUG] (log4jdbc.debug:506)  -   FOUND DRIVER oracle.jdbc.OracleDriver
+ [2014-10-09 13:27:25,283] [DEBUG] (log4jdbc.debug:506)  -   FOUND DRIVER oracle.jdbc.driver.OracleDriver
+ [2014-10-09 13:27:25,286] [DEBUG] (log4jdbc.debug:506)  - ... log4jdbc initialized! ...
+ [2014-10-09 13:27:25,486] [INFO ] (jdbc.connection:518)  - 1. Connection opened  java.sql.DriverManager.getConnection(DriverManager.java:582)
+ [2014-10-09 13:27:25,486] [DEBUG] (jdbc.connection:520)  - open connections:  1 (1)
+ [2014-10-09 13:27:25,490] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:378)  - Created connection 25626358.
+ [2014-10-09 13:27:25,490] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:95)  - Setting autocommit to false on JDBC Connection [net.sf.log4jdbc.ConnectionSpy@18706f6]
+ [2014-10-09 13:27:25,492] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ooo Using Connection [net.sf.log4jdbc.ConnectionSpy@18706f6]
+ [2014-10-09 13:27:25,493] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==>  Preparing: SELECT T1.* FROM USERS T1 WHERE T1.id = ? 
+ [2014-10-09 13:27:25,600] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==> Parameters: (String)
+ [2014-10-09 13:27:25,606] [DEBUG] (jdbc.sqltiming:352)  -  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+1. SELECT T1.* FROM USERS T1 WHERE T1.id = ''  {executed in 5 msec}
+ [2014-10-09 13:27:25,615] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.new ResultSet returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:27:25,629] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.getMetaData() returned oracle.jdbc.driver.OracleResultSetMetaData@39452f  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:27:25,630] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.getType() returned 1003  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:27:25,633] [INFO ] (jdbc.resultsettable:108)  - |---|---|-----|
+ [2014-10-09 13:27:25,633] [INFO ] (jdbc.resultsettable:108)  - |ID |PW |NAME |
+ [2014-10-09 13:27:25,634] [INFO ] (jdbc.resultsettable:108)  - |---|---|-----|
+ [2014-10-09 13:27:25,634] [INFO ] (jdbc.resultsettable:108)  - |---|---|-----|
+ [2014-10-09 13:27:25,634] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.next() returned false  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:27:25,634] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - <==      Total: 0
+ [2014-10-09 13:27:25,635] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.close() returned null  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:27:25,637] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:117)  - Resetting autocommit to true on JDBC Connection [net.sf.log4jdbc.ConnectionSpy@18706f6]
+ [2014-10-09 13:27:25,637] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:85)  - Closing JDBC Connection [net.sf.log4jdbc.ConnectionSpy@18706f6]
+ [2014-10-09 13:27:25,637] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:332)  - Returned connection 25626358 to pool.
+ [2014-10-09 13:28:06,337] [INFO ] (com.lin.clould.web.command.CommandFactory:48)  - NodeList Length : 3
+ [2014-10-09 13:28:06,512] [DEBUG] (org.apache.ibatis.logging.LogFactory:124)  - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+ [2014-10-09 13:28:06,523] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:06,523] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:06,524] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:06,524] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:06,524] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:06,525] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:06,525] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:06,525] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:06,526] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:06,526] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:06,527] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:06,527] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:06,579] [INFO ] (com.lin.clould.web.command.CommandFactory:97)  - DefaultViewPath : /WEB-INF/jsp/
+ [2014-10-09 13:28:06,580] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/login
+ [2014-10-09 13:28:06,580] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=login, class=com.lin.clould.person.login.service.LoginServiceImpl@17af46e}
+ [2014-10-09 13:28:06,628] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:129)  - Opening JDBC Connection
+ [2014-10-09 13:28:06,632] [DEBUG] (log4jdbc.debug:506)  - ... log4jdbc initializing ...
+ [2014-10-09 13:28:06,632] [DEBUG] (log4jdbc.debug:506)  -   log4jdbc.properties not found on classpath
+ [2014-10-09 13:28:06,633] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.debug.stack.prefix is not defined
+ [2014-10-09 13:28:06,636] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.sqltiming.warn.threshold is not defined
+ [2014-10-09 13:28:06,636] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.sqltiming.error.threshold is not defined
+ [2014-10-09 13:28:06,637] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.booleanastruefalse is not defined (using default value false)
+ [2014-10-09 13:28:06,637] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.maxlinelength is not defined (using default of 90)
+ [2014-10-09 13:28:06,637] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.fulldebugstacktrace is not defined (using default value false)
+ [2014-10-09 13:28:06,638] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.statement.warn is not defined (using default value false)
+ [2014-10-09 13:28:06,638] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.select is not defined (using default value true)
+ [2014-10-09 13:28:06,638] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.insert is not defined (using default value true)
+ [2014-10-09 13:28:06,638] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.update is not defined (using default value true)
+ [2014-10-09 13:28:06,639] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.delete is not defined (using default value true)
+ [2014-10-09 13:28:06,639] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.create is not defined (using default value true)
+ [2014-10-09 13:28:06,639] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.addsemicolon is not defined (using default value false)
+ [2014-10-09 13:28:06,639] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.auto.load.popular.drivers is not defined (using default value true)
+ [2014-10-09 13:28:06,639] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.trim.sql is not defined (using default value true)
+ [2014-10-09 13:28:06,640] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.suppress.generated.keys.exception is not defined (using default value false)
+ [2014-10-09 13:28:06,640] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.drivers is not defined
+ [2014-10-09 13:28:06,645] [DEBUG] (log4jdbc.debug:506)  -   FOUND DRIVER oracle.jdbc.OracleDriver
+ [2014-10-09 13:28:06,645] [DEBUG] (log4jdbc.debug:506)  -   FOUND DRIVER oracle.jdbc.driver.OracleDriver
+ [2014-10-09 13:28:06,648] [DEBUG] (log4jdbc.debug:506)  - ... log4jdbc initialized! ...
+ [2014-10-09 13:28:06,850] [INFO ] (jdbc.connection:518)  - 1. Connection opened  java.sql.DriverManager.getConnection(DriverManager.java:582)
+ [2014-10-09 13:28:06,850] [DEBUG] (jdbc.connection:520)  - open connections:  1 (1)
+ [2014-10-09 13:28:06,850] [DEBUG] (jdbc.audit:167)  - 1. Connection.new Connection returned   java.sql.DriverManager.getConnection(DriverManager.java:582)
+ [2014-10-09 13:28:06,854] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:378)  - Created connection 14856315.
+ [2014-10-09 13:28:06,855] [DEBUG] (jdbc.audit:167)  - 1. Connection.isClosed() returned false  org.apache.ibatis.datasource.pooled.PooledDataSource.pingConnection(PooledDataSource.java:467)
+ [2014-10-09 13:28:06,855] [DEBUG] (jdbc.audit:167)  - 1. Connection.getAutoCommit() returned true  org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:419)
+ [2014-10-09 13:28:06,855] [DEBUG] (jdbc.audit:167)  - 1. Connection.getAutoCommit() returned true  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:06,855] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:95)  - Setting autocommit to false on JDBC Connection [net.sf.log4jdbc.ConnectionSpy@e2b07b]
+ [2014-10-09 13:28:06,856] [DEBUG] (jdbc.audit:167)  - 1. Connection.setAutoCommit(false) returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:06,858] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ooo Using Connection [net.sf.log4jdbc.ConnectionSpy@e2b07b]
+ [2014-10-09 13:28:06,858] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==>  Preparing: SELECT T1.* FROM USERS T1 WHERE T1.id = ? 
+ [2014-10-09 13:28:06,954] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.new PreparedStatement returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:06,955] [DEBUG] (jdbc.audit:167)  - 1. Connection.prepareStatement(SELECT T1.*
+		FROM USERS T1
+		WHERE T1.id = ?) returned net.sf.log4jdbc.PreparedStatementSpy@1bef5e8  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:06,967] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.setString(1, "") returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:06,969] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==> Parameters: (String)
+ [2014-10-09 13:28:06,975] [DEBUG] (jdbc.sqltiming:352)  -  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+1. SELECT T1.* FROM USERS T1 WHERE T1.id = ''  {executed in 5 msec}
+ [2014-10-09 13:28:06,976] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.execute() returned true  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:06,985] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.new ResultSet returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:06,985] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.getResultSet() returned net.sf.log4jdbc.ResultSetSpy@956254  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:06,995] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.getMetaData() returned oracle.jdbc.driver.OracleResultSetMetaData@15738e0  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:06,997] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.getType() returned 1003  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:06,999] [INFO ] (jdbc.resultsettable:108)  - |---|---|-----|
+ [2014-10-09 13:28:07,000] [INFO ] (jdbc.resultsettable:108)  - |ID |PW |NAME |
+ [2014-10-09 13:28:07,000] [INFO ] (jdbc.resultsettable:108)  - |---|---|-----|
+ [2014-10-09 13:28:07,000] [INFO ] (jdbc.resultsettable:108)  - |---|---|-----|
+ [2014-10-09 13:28:07,001] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.next() returned false  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:07,001] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - <==      Total: 0
+ [2014-10-09 13:28:07,001] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.close() returned null  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:07,001] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.getConnection() returned net.sf.log4jdbc.ConnectionSpy@e2b07b  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:07,004] [DEBUG] (jdbc.audit:167)  - 1. Connection.getMetaData() returned oracle.jdbc.driver.OracleDatabaseMetaData@39452f  org.apache.ibatis.executor.resultset.DefaultResultSetHandler.getNextResultSet(DefaultResultSetHandler.java:193)
+ [2014-10-09 13:28:07,004] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.close() returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:07,004] [DEBUG] (jdbc.audit:167)  - 1. Connection.getAutoCommit() returned false  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:07,004] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:117)  - Resetting autocommit to true on JDBC Connection [net.sf.log4jdbc.ConnectionSpy@e2b07b]
+ [2014-10-09 13:28:07,005] [DEBUG] (jdbc.audit:167)  - 1. Connection.setAutoCommit(true) returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:07,005] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:85)  - Closing JDBC Connection [net.sf.log4jdbc.ConnectionSpy@e2b07b]
+ [2014-10-09 13:28:07,005] [DEBUG] (jdbc.audit:167)  - 1. Connection.isClosed() returned false  org.apache.ibatis.datasource.pooled.PooledDataSource.pingConnection(PooledDataSource.java:467)
+ [2014-10-09 13:28:07,005] [DEBUG] (jdbc.audit:167)  - 1. Connection.getAutoCommit() returned true  org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:323)
+ [2014-10-09 13:28:07,005] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:332)  - Returned connection 14856315 to pool.
+ [2014-10-09 13:28:27,518] [INFO ] (com.lin.clould.web.command.CommandFactory:48)  - NodeList Length : 3
+ [2014-10-09 13:28:27,696] [DEBUG] (org.apache.ibatis.logging.LogFactory:124)  - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+ [2014-10-09 13:28:27,705] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:27,706] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:27,706] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:27,706] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:27,707] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:27,707] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:27,707] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:27,708] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:27,708] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:27,708] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:27,709] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:27,709] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:27,758] [INFO ] (com.lin.clould.web.command.CommandFactory:97)  - DefaultViewPath : /WEB-INF/jsp/
+ [2014-10-09 13:28:27,759] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/login
+ [2014-10-09 13:28:27,759] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=login, class=com.lin.clould.person.login.service.LoginServiceImpl@107f742}
+ [2014-10-09 13:28:27,808] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:129)  - Opening JDBC Connection
+ [2014-10-09 13:28:27,811] [DEBUG] (log4jdbc.debug:506)  - ... log4jdbc initializing ...
+ [2014-10-09 13:28:27,812] [DEBUG] (log4jdbc.debug:506)  -   log4jdbc.properties not found on classpath
+ [2014-10-09 13:28:27,817] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.debug.stack.prefix is not defined
+ [2014-10-09 13:28:27,817] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.sqltiming.warn.threshold is not defined
+ [2014-10-09 13:28:27,818] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.sqltiming.error.threshold is not defined
+ [2014-10-09 13:28:27,818] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.booleanastruefalse is not defined (using default value false)
+ [2014-10-09 13:28:27,818] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.maxlinelength is not defined (using default of 90)
+ [2014-10-09 13:28:27,819] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.fulldebugstacktrace is not defined (using default value false)
+ [2014-10-09 13:28:27,819] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.statement.warn is not defined (using default value false)
+ [2014-10-09 13:28:27,819] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.select is not defined (using default value true)
+ [2014-10-09 13:28:27,820] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.insert is not defined (using default value true)
+ [2014-10-09 13:28:27,820] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.update is not defined (using default value true)
+ [2014-10-09 13:28:27,820] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.delete is not defined (using default value true)
+ [2014-10-09 13:28:27,820] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.create is not defined (using default value true)
+ [2014-10-09 13:28:27,821] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.addsemicolon is not defined (using default value false)
+ [2014-10-09 13:28:27,821] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.auto.load.popular.drivers is not defined (using default value true)
+ [2014-10-09 13:28:27,821] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.trim.sql is not defined (using default value true)
+ [2014-10-09 13:28:27,821] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.suppress.generated.keys.exception is not defined (using default value false)
+ [2014-10-09 13:28:27,822] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.drivers is not defined
+ [2014-10-09 13:28:27,827] [DEBUG] (log4jdbc.debug:506)  -   FOUND DRIVER oracle.jdbc.OracleDriver
+ [2014-10-09 13:28:27,827] [DEBUG] (log4jdbc.debug:506)  -   FOUND DRIVER oracle.jdbc.driver.OracleDriver
+ [2014-10-09 13:28:27,831] [DEBUG] (log4jdbc.debug:506)  - ... log4jdbc initialized! ...
+ [2014-10-09 13:28:28,030] [INFO ] (jdbc.connection:518)  - 1. Connection opened  java.sql.DriverManager.getConnection(DriverManager.java:582)
+ [2014-10-09 13:28:28,030] [DEBUG] (jdbc.connection:520)  - open connections:  1 (1)
+ [2014-10-09 13:28:28,030] [DEBUG] (jdbc.audit:167)  - 1. Connection.new Connection returned   java.sql.DriverManager.getConnection(DriverManager.java:582)
+ [2014-10-09 13:28:28,034] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:378)  - Created connection 21271291.
+ [2014-10-09 13:28:28,035] [DEBUG] (jdbc.audit:167)  - 1. Connection.isClosed() returned false  org.apache.ibatis.datasource.pooled.PooledDataSource.pingConnection(PooledDataSource.java:467)
+ [2014-10-09 13:28:28,035] [DEBUG] (jdbc.audit:167)  - 1. Connection.getAutoCommit() returned true  org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:419)
+ [2014-10-09 13:28:28,035] [DEBUG] (jdbc.audit:167)  - 1. Connection.getAutoCommit() returned true  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:28,035] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:95)  - Setting autocommit to false on JDBC Connection [net.sf.log4jdbc.ConnectionSpy@14492fb]
+ [2014-10-09 13:28:28,036] [DEBUG] (jdbc.audit:167)  - 1. Connection.setAutoCommit(false) returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:28,037] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ooo Using Connection [net.sf.log4jdbc.ConnectionSpy@14492fb]
+ [2014-10-09 13:28:28,038] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==>  Preparing: SELECT T1.* FROM USERS T1 WHERE T1.id = ? 
+ [2014-10-09 13:28:28,133] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.new PreparedStatement returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:28,133] [DEBUG] (jdbc.audit:167)  - 1. Connection.prepareStatement(SELECT T1.*
+		FROM USERS T1
+		WHERE T1.id = ?) returned net.sf.log4jdbc.PreparedStatementSpy@14d659d  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:28,148] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.setString(1, "") returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:28,148] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==> Parameters: (String)
+ [2014-10-09 13:28:28,154] [DEBUG] (jdbc.sqltiming:352)  -  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+1. SELECT T1.* FROM USERS T1 WHERE T1.id = ''  {executed in 6 msec}
+ [2014-10-09 13:28:28,154] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.execute() returned true  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:28,163] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.new ResultSet returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:28,164] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.getResultSet() returned net.sf.log4jdbc.ResultSetSpy@128215d  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:28,174] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.getMetaData() returned oracle.jdbc.driver.OracleResultSetMetaData@541b02  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:28,176] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.getType() returned 1003  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:28,178] [INFO ] (jdbc.resultsettable:108)  - |---|---|-----|
+ [2014-10-09 13:28:28,179] [INFO ] (jdbc.resultsettable:108)  - |ID |PW |NAME |
+ [2014-10-09 13:28:28,179] [INFO ] (jdbc.resultsettable:108)  - |---|---|-----|
+ [2014-10-09 13:28:28,179] [INFO ] (jdbc.resultsettable:108)  - |---|---|-----|
+ [2014-10-09 13:28:28,179] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.next() returned false  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:28,180] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - <==      Total: 0
+ [2014-10-09 13:28:28,180] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.close() returned null  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:28,180] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.getConnection() returned net.sf.log4jdbc.ConnectionSpy@14492fb  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:28,183] [DEBUG] (jdbc.audit:167)  - 1. Connection.getMetaData() returned oracle.jdbc.driver.OracleDatabaseMetaData@4ab40a  org.apache.ibatis.executor.resultset.DefaultResultSetHandler.getNextResultSet(DefaultResultSetHandler.java:193)
+ [2014-10-09 13:28:28,183] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.close() returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:28,183] [DEBUG] (jdbc.audit:167)  - 1. Connection.getAutoCommit() returned false  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:28,183] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:117)  - Resetting autocommit to true on JDBC Connection [net.sf.log4jdbc.ConnectionSpy@14492fb]
+ [2014-10-09 13:28:28,184] [DEBUG] (jdbc.audit:167)  - 1. Connection.setAutoCommit(true) returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:28,184] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:85)  - Closing JDBC Connection [net.sf.log4jdbc.ConnectionSpy@14492fb]
+ [2014-10-09 13:28:28,184] [DEBUG] (jdbc.audit:167)  - 1. Connection.isClosed() returned false  org.apache.ibatis.datasource.pooled.PooledDataSource.pingConnection(PooledDataSource.java:467)
+ [2014-10-09 13:28:28,184] [DEBUG] (jdbc.audit:167)  - 1. Connection.getAutoCommit() returned true  org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:323)
+ [2014-10-09 13:28:28,184] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:332)  - Returned connection 21271291 to pool.
+ [2014-10-09 13:28:47,817] [INFO ] (com.lin.clould.web.command.CommandFactory:48)  - NodeList Length : 3
+ [2014-10-09 13:28:47,995] [DEBUG] (org.apache.ibatis.logging.LogFactory:124)  - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+ [2014-10-09 13:28:48,004] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:48,004] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:48,005] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:48,005] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:48,005] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:48,006] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:48,006] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:48,007] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:48,007] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:48,008] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:48,008] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:48,009] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:28:48,059] [INFO ] (com.lin.clould.web.command.CommandFactory:97)  - DefaultViewPath : /WEB-INF/jsp/
+ [2014-10-09 13:28:48,059] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/login
+ [2014-10-09 13:28:48,060] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=login, class=com.lin.clould.person.login.service.LoginServiceImpl@17af46e}
+ [2014-10-09 13:28:48,108] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:129)  - Opening JDBC Connection
+ [2014-10-09 13:28:48,112] [DEBUG] (log4jdbc.debug:506)  - ... log4jdbc initializing ...
+ [2014-10-09 13:28:48,112] [DEBUG] (log4jdbc.debug:506)  -   log4jdbc.properties not found on classpath
+ [2014-10-09 13:28:48,112] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.debug.stack.prefix is not defined
+ [2014-10-09 13:28:48,116] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.sqltiming.warn.threshold is not defined
+ [2014-10-09 13:28:48,116] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.sqltiming.error.threshold is not defined
+ [2014-10-09 13:28:48,116] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.booleanastruefalse is not defined (using default value false)
+ [2014-10-09 13:28:48,117] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.maxlinelength is not defined (using default of 90)
+ [2014-10-09 13:28:48,117] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.fulldebugstacktrace is not defined (using default value false)
+ [2014-10-09 13:28:48,117] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.statement.warn is not defined (using default value false)
+ [2014-10-09 13:28:48,118] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.select is not defined (using default value true)
+ [2014-10-09 13:28:48,118] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.insert is not defined (using default value true)
+ [2014-10-09 13:28:48,118] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.update is not defined (using default value true)
+ [2014-10-09 13:28:48,118] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.delete is not defined (using default value true)
+ [2014-10-09 13:28:48,119] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.create is not defined (using default value true)
+ [2014-10-09 13:28:48,119] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.addsemicolon is not defined (using default value false)
+ [2014-10-09 13:28:48,119] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.auto.load.popular.drivers is not defined (using default value true)
+ [2014-10-09 13:28:48,119] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.trim.sql is not defined (using default value true)
+ [2014-10-09 13:28:48,120] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.suppress.generated.keys.exception is not defined (using default value false)
+ [2014-10-09 13:28:48,120] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.drivers is not defined
+ [2014-10-09 13:28:48,125] [DEBUG] (log4jdbc.debug:506)  -   FOUND DRIVER oracle.jdbc.OracleDriver
+ [2014-10-09 13:28:48,125] [DEBUG] (log4jdbc.debug:506)  -   FOUND DRIVER oracle.jdbc.driver.OracleDriver
+ [2014-10-09 13:28:48,128] [DEBUG] (log4jdbc.debug:506)  - ... log4jdbc initialized! ...
+ [2014-10-09 13:28:48,326] [INFO ] (jdbc.connection:518)  - 1. Connection opened  java.sql.DriverManager.getConnection(DriverManager.java:582)
+ [2014-10-09 13:28:48,326] [DEBUG] (jdbc.connection:520)  - open connections:  1 (1)
+ [2014-10-09 13:28:48,326] [DEBUG] (jdbc.audit:167)  - 1. Connection.new Connection returned   java.sql.DriverManager.getConnection(DriverManager.java:582)
+ [2014-10-09 13:28:48,331] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:378)  - Created connection 8593864.
+ [2014-10-09 13:28:48,331] [DEBUG] (jdbc.audit:167)  - 1. Connection.isClosed() returned false  org.apache.ibatis.datasource.pooled.PooledDataSource.pingConnection(PooledDataSource.java:467)
+ [2014-10-09 13:28:48,331] [DEBUG] (jdbc.audit:167)  - 1. Connection.getAutoCommit() returned true  org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:419)
+ [2014-10-09 13:28:48,331] [DEBUG] (jdbc.audit:167)  - 1. Connection.getAutoCommit() returned true  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:48,332] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:95)  - Setting autocommit to false on JDBC Connection [net.sf.log4jdbc.ConnectionSpy@8321c8]
+ [2014-10-09 13:28:48,332] [DEBUG] (jdbc.audit:167)  - 1. Connection.setAutoCommit(false) returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:48,334] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ooo Using Connection [net.sf.log4jdbc.ConnectionSpy@8321c8]
+ [2014-10-09 13:28:48,334] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==>  Preparing: SELECT T1.* FROM USERS T1 WHERE T1.id = ? 
+ [2014-10-09 13:28:48,430] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.new PreparedStatement returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:48,430] [DEBUG] (jdbc.audit:167)  - 1. Connection.prepareStatement(SELECT T1.*
+		FROM USERS T1
+		WHERE T1.id = ?) returned net.sf.log4jdbc.PreparedStatementSpy@19d9c0d  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:48,442] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.setString(1, "") returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:48,444] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==> Parameters: (String)
+ [2014-10-09 13:28:48,445] [DEBUG] (jdbc.sqlonly:232)  -  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+1. SELECT T1.* FROM USERS T1 WHERE T1.id = '' 
+ [2014-10-09 13:28:48,450] [DEBUG] (jdbc.sqltiming:352)  -  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+1. SELECT T1.* FROM USERS T1 WHERE T1.id = ''  {executed in 5 msec}
+ [2014-10-09 13:28:48,451] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.execute() returned true  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:48,460] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.new ResultSet returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:48,460] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.getResultSet() returned net.sf.log4jdbc.ResultSetSpy@1ce64f6  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:48,471] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.getMetaData() returned oracle.jdbc.driver.OracleResultSetMetaData@83e35b  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:48,472] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.getType() returned 1003  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:48,475] [INFO ] (jdbc.resultsettable:108)  - |---|---|-----|
+ [2014-10-09 13:28:48,475] [INFO ] (jdbc.resultsettable:108)  - |ID |PW |NAME |
+ [2014-10-09 13:28:48,476] [INFO ] (jdbc.resultsettable:108)  - |---|---|-----|
+ [2014-10-09 13:28:48,476] [INFO ] (jdbc.resultsettable:108)  - |---|---|-----|
+ [2014-10-09 13:28:48,476] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.next() returned false  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:48,477] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - <==      Total: 0
+ [2014-10-09 13:28:48,477] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.close() returned null  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:48,477] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.getConnection() returned net.sf.log4jdbc.ConnectionSpy@8321c8  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:48,479] [DEBUG] (jdbc.audit:167)  - 1. Connection.getMetaData() returned oracle.jdbc.driver.OracleDatabaseMetaData@168e429  org.apache.ibatis.executor.resultset.DefaultResultSetHandler.getNextResultSet(DefaultResultSetHandler.java:193)
+ [2014-10-09 13:28:48,480] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.close() returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:48,480] [DEBUG] (jdbc.audit:167)  - 1. Connection.getAutoCommit() returned false  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:48,480] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:117)  - Resetting autocommit to true on JDBC Connection [net.sf.log4jdbc.ConnectionSpy@8321c8]
+ [2014-10-09 13:28:48,480] [DEBUG] (jdbc.audit:167)  - 1. Connection.setAutoCommit(true) returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:28:48,480] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:85)  - Closing JDBC Connection [net.sf.log4jdbc.ConnectionSpy@8321c8]
+ [2014-10-09 13:28:48,481] [DEBUG] (jdbc.audit:167)  - 1. Connection.isClosed() returned false  org.apache.ibatis.datasource.pooled.PooledDataSource.pingConnection(PooledDataSource.java:467)
+ [2014-10-09 13:28:48,481] [DEBUG] (jdbc.audit:167)  - 1. Connection.getAutoCommit() returned true  org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:323)
+ [2014-10-09 13:28:48,481] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:332)  - Returned connection 8593864 to pool.
+ [2014-10-09 13:33:33,214] [INFO ] (com.lin.clould.web.command.CommandFactory:48)  - NodeList Length : 3
+ [2014-10-09 13:33:33,402] [DEBUG] (org.apache.ibatis.logging.LogFactory:124)  - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+ [2014-10-09 13:33:33,410] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:33:33,411] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:33:33,411] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:33:33,411] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:33:33,412] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:33:33,412] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:33:33,412] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:33:33,413] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:33:33,413] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:33:33,413] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:33:33,414] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:33:33,414] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:33:33,466] [INFO ] (com.lin.clould.web.command.CommandFactory:97)  - DefaultViewPath : /WEB-INF/jsp/
+ [2014-10-09 13:33:33,466] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/login
+ [2014-10-09 13:33:33,466] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=login, class=com.lin.clould.person.login.service.LoginServiceImpl@c62080}
+ [2014-10-09 13:33:33,515] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:129)  - Opening JDBC Connection
+ [2014-10-09 13:33:33,522] [DEBUG] (log4jdbc.debug:506)  - ... log4jdbc initializing ...
+ [2014-10-09 13:33:33,522] [DEBUG] (log4jdbc.debug:506)  -   log4jdbc.properties not found on classpath
+ [2014-10-09 13:33:33,522] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.debug.stack.prefix is not defined
+ [2014-10-09 13:33:33,523] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.sqltiming.warn.threshold is not defined
+ [2014-10-09 13:33:33,523] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.sqltiming.error.threshold is not defined
+ [2014-10-09 13:33:33,523] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.booleanastruefalse is not defined (using default value false)
+ [2014-10-09 13:33:33,524] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.maxlinelength is not defined (using default of 90)
+ [2014-10-09 13:33:33,524] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.fulldebugstacktrace is not defined (using default value false)
+ [2014-10-09 13:33:33,524] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.statement.warn is not defined (using default value false)
+ [2014-10-09 13:33:33,525] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.select is not defined (using default value true)
+ [2014-10-09 13:33:33,525] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.insert is not defined (using default value true)
+ [2014-10-09 13:33:33,525] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.update is not defined (using default value true)
+ [2014-10-09 13:33:33,525] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.delete is not defined (using default value true)
+ [2014-10-09 13:33:33,526] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.create is not defined (using default value true)
+ [2014-10-09 13:33:33,526] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.dump.sql.addsemicolon is not defined (using default value false)
+ [2014-10-09 13:33:33,526] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.auto.load.popular.drivers is not defined (using default value true)
+ [2014-10-09 13:33:33,526] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.trim.sql is not defined (using default value true)
+ [2014-10-09 13:33:33,527] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.suppress.generated.keys.exception is not defined (using default value false)
+ [2014-10-09 13:33:33,527] [DEBUG] (log4jdbc.debug:506)  - x log4jdbc.drivers is not defined
+ [2014-10-09 13:33:33,532] [DEBUG] (log4jdbc.debug:506)  -   FOUND DRIVER oracle.jdbc.OracleDriver
+ [2014-10-09 13:33:33,532] [DEBUG] (log4jdbc.debug:506)  -   FOUND DRIVER oracle.jdbc.driver.OracleDriver
+ [2014-10-09 13:33:33,535] [DEBUG] (log4jdbc.debug:506)  - ... log4jdbc initialized! ...
+ [2014-10-09 13:33:33,740] [INFO ] (jdbc.connection:518)  - 1. Connection opened  java.sql.DriverManager.getConnection(DriverManager.java:582)
+ [2014-10-09 13:33:33,740] [DEBUG] (jdbc.connection:520)  - open connections:  1 (1)
+ [2014-10-09 13:33:33,741] [DEBUG] (jdbc.audit:167)  - 1. Connection.new Connection returned   java.sql.DriverManager.getConnection(DriverManager.java:582)
+ [2014-10-09 13:33:33,745] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:378)  - Created connection 10192886.
+ [2014-10-09 13:33:33,745] [DEBUG] (jdbc.audit:167)  - 1. Connection.isClosed() returned false  org.apache.ibatis.datasource.pooled.PooledDataSource.pingConnection(PooledDataSource.java:467)
+ [2014-10-09 13:33:33,745] [DEBUG] (jdbc.audit:167)  - 1. Connection.getAutoCommit() returned true  org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:419)
+ [2014-10-09 13:33:33,745] [DEBUG] (jdbc.audit:167)  - 1. Connection.getAutoCommit() returned true  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:33,746] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:95)  - Setting autocommit to false on JDBC Connection [net.sf.log4jdbc.ConnectionSpy@9b87f6]
+ [2014-10-09 13:33:33,746] [DEBUG] (jdbc.audit:167)  - 1. Connection.setAutoCommit(false) returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:33,748] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ooo Using Connection [net.sf.log4jdbc.ConnectionSpy@9b87f6]
+ [2014-10-09 13:33:33,748] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==>  Preparing: SELECT T1.* FROM USERS T1 WHERE T1.id = ? 
+ [2014-10-09 13:33:33,847] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.new PreparedStatement returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:33,847] [DEBUG] (jdbc.audit:167)  - 1. Connection.prepareStatement(SELECT T1.*
+		FROM USERS T1
+		WHERE T1.id = ?) returned net.sf.log4jdbc.PreparedStatementSpy@8809ce  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:33,862] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.setString(1, "") returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:33,862] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==> Parameters: (String)
+ [2014-10-09 13:33:33,863] [DEBUG] (jdbc.sqlonly:232)  -  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+1. SELECT T1.* FROM USERS T1 WHERE T1.id = '' 
+ [2014-10-09 13:33:33,869] [DEBUG] (jdbc.sqltiming:352)  -  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+1. SELECT T1.* FROM USERS T1 WHERE T1.id = ''  {executed in 5 msec}
+ [2014-10-09 13:33:33,869] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.execute() returned true  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:33,878] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.new ResultSet returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:33,878] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.getResultSet() returned net.sf.log4jdbc.ResultSetSpy@8a2006  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:33,888] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.getMetaData() returned oracle.jdbc.driver.OracleResultSetMetaData@21b42f  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:33,890] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.getType() returned 1003  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:33,892] [INFO ] (jdbc.resultsettable:108)  - |---|---|-----|
+ [2014-10-09 13:33:33,893] [INFO ] (jdbc.resultsettable:108)  - |ID |PW |NAME |
+ [2014-10-09 13:33:33,893] [INFO ] (jdbc.resultsettable:108)  - |---|---|-----|
+ [2014-10-09 13:33:33,893] [INFO ] (jdbc.resultsettable:108)  - |---|---|-----|
+ [2014-10-09 13:33:33,894] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.next() returned false  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:33,894] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - <==      Total: 0
+ [2014-10-09 13:33:33,894] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.close() returned null  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:33,894] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.getConnection() returned net.sf.log4jdbc.ConnectionSpy@9b87f6  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:33,896] [DEBUG] (jdbc.audit:167)  - 1. Connection.getMetaData() returned oracle.jdbc.driver.OracleDatabaseMetaData@455aa8  org.apache.ibatis.executor.resultset.DefaultResultSetHandler.getNextResultSet(DefaultResultSetHandler.java:193)
+ [2014-10-09 13:33:33,897] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.close() returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:33,897] [DEBUG] (jdbc.audit:167)  - 1. Connection.getAutoCommit() returned false  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:33,897] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:117)  - Resetting autocommit to true on JDBC Connection [net.sf.log4jdbc.ConnectionSpy@9b87f6]
+ [2014-10-09 13:33:33,897] [DEBUG] (jdbc.audit:167)  - 1. Connection.setAutoCommit(true) returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:33,898] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:85)  - Closing JDBC Connection [net.sf.log4jdbc.ConnectionSpy@9b87f6]
+ [2014-10-09 13:33:33,898] [DEBUG] (jdbc.audit:167)  - 1. Connection.isClosed() returned false  org.apache.ibatis.datasource.pooled.PooledDataSource.pingConnection(PooledDataSource.java:467)
+ [2014-10-09 13:33:33,898] [DEBUG] (jdbc.audit:167)  - 1. Connection.getAutoCommit() returned true  org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:323)
+ [2014-10-09 13:33:33,898] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:332)  - Returned connection 10192886 to pool.
+ [2014-10-09 13:33:37,485] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/login
+ [2014-10-09 13:33:37,487] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=login, class=com.lin.clould.person.login.service.LoginServiceImpl@c62080}
+ [2014-10-09 13:33:37,488] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:129)  - Opening JDBC Connection
+ [2014-10-09 13:33:37,488] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:367)  - Checked out connection 10192886 from pool.
+ [2014-10-09 13:33:37,488] [DEBUG] (jdbc.audit:167)  - 1. Connection.isClosed() returned false  org.apache.ibatis.datasource.pooled.PooledDataSource.pingConnection(PooledDataSource.java:467)
+ [2014-10-09 13:33:37,489] [DEBUG] (jdbc.audit:167)  - 1. Connection.getAutoCommit() returned true  org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:419)
+ [2014-10-09 13:33:37,489] [DEBUG] (jdbc.audit:167)  - 1. Connection.getAutoCommit() returned true  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:37,490] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:95)  - Setting autocommit to false on JDBC Connection [net.sf.log4jdbc.ConnectionSpy@9b87f6]
+ [2014-10-09 13:33:37,490] [DEBUG] (jdbc.audit:167)  - 1. Connection.setAutoCommit(false) returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:37,490] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ooo Using Connection [net.sf.log4jdbc.ConnectionSpy@9b87f6]
+ [2014-10-09 13:33:37,491] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==>  Preparing: SELECT T1.* FROM USERS T1 WHERE T1.id = ? 
+ [2014-10-09 13:33:37,491] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.new PreparedStatement returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:37,491] [DEBUG] (jdbc.audit:167)  - 1. Connection.prepareStatement(SELECT T1.*
+		FROM USERS T1
+		WHERE T1.id = ?) returned net.sf.log4jdbc.PreparedStatementSpy@cbf92  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:37,492] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.setString(1, "heo") returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:37,492] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==> Parameters: heo(String)
+ [2014-10-09 13:33:37,493] [DEBUG] (jdbc.sqlonly:232)  -  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+1. SELECT T1.* FROM USERS T1 WHERE T1.id = 'heo' 
+ [2014-10-09 13:33:37,495] [DEBUG] (jdbc.sqltiming:352)  -  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+1. SELECT T1.* FROM USERS T1 WHERE T1.id = 'heo'  {executed in 2 msec}
+ [2014-10-09 13:33:37,496] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.execute() returned true  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:37,496] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.new ResultSet returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:37,496] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.getResultSet() returned net.sf.log4jdbc.ResultSetSpy@132be10  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:37,497] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.getMetaData() returned oracle.jdbc.driver.OracleResultSetMetaData@5c2fee  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:37,497] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.getType() returned 1003  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:37,498] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.next() returned true  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:37,499] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.getString(ID) returned heo  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:37,500] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.wasNull() returned false  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:37,501] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.getString(PW) returned heo  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:37,502] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.wasNull() returned false  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:37,503] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.getString(NAME) returned 허정도  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:37,503] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.wasNull() returned false  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:37,504] [INFO ] (jdbc.resultsettable:108)  - |----|----|-----|
+ [2014-10-09 13:33:37,504] [INFO ] (jdbc.resultsettable:108)  - |ID  |PW  |NAME |
+ [2014-10-09 13:33:37,505] [INFO ] (jdbc.resultsettable:108)  - |----|----|-----|
+ [2014-10-09 13:33:37,505] [INFO ] (jdbc.resultsettable:108)  - |heo |heo |허정도  |
+ [2014-10-09 13:33:37,506] [INFO ] (jdbc.resultsettable:108)  - |----|----|-----|
+ [2014-10-09 13:33:37,506] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.next() returned false  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:37,506] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - <==      Total: 1
+ [2014-10-09 13:33:37,507] [DEBUG] (jdbc.resultset:167)  - 1. ResultSet.close() returned null  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:37,507] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.getConnection() returned net.sf.log4jdbc.ConnectionSpy@9b87f6  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:37,507] [DEBUG] (jdbc.audit:167)  - 1. Connection.getMetaData() returned oracle.jdbc.driver.OracleDatabaseMetaData@455aa8  org.apache.ibatis.executor.resultset.DefaultResultSetHandler.getNextResultSet(DefaultResultSetHandler.java:193)
+ [2014-10-09 13:33:37,508] [DEBUG] (jdbc.audit:167)  - 1. PreparedStatement.close() returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:37,508] [DEBUG] (jdbc.audit:167)  - 1. Connection.getAutoCommit() returned false  sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:37,508] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:117)  - Resetting autocommit to true on JDBC Connection [net.sf.log4jdbc.ConnectionSpy@9b87f6]
+ [2014-10-09 13:33:37,509] [DEBUG] (jdbc.audit:167)  - 1. Connection.setAutoCommit(true) returned   sun.reflect.NativeMethodAccessorImpl.invoke0(NativeMethodAccessorImpl.java:-2)
+ [2014-10-09 13:33:37,509] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:85)  - Closing JDBC Connection [net.sf.log4jdbc.ConnectionSpy@9b87f6]
+ [2014-10-09 13:33:37,509] [DEBUG] (jdbc.audit:167)  - 1. Connection.isClosed() returned false  org.apache.ibatis.datasource.pooled.PooledDataSource.pingConnection(PooledDataSource.java:467)
+ [2014-10-09 13:33:37,510] [DEBUG] (jdbc.audit:167)  - 1. Connection.getAutoCommit() returned true  org.apache.ibatis.datasource.pooled.PooledDataSource.pushConnection(PooledDataSource.java:323)
+ [2014-10-09 13:33:37,510] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:332)  - Returned connection 10192886 to pool.
+ [2014-10-09 13:33:37,510] [INFO ] (com.lin.clould.person.login.service.LoginServiceImpl:38)  - LoginVO [id=heo, pw=heo, name=허정도]
+ [2014-10-09 13:33:37,515] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 13:33:37,518] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@87e9bf}
+ [2014-10-09 13:40:07,636] [DEBUG] (jdbc.audit:167)  - 1. Connection.getAutoCommit() returned true  org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:294)
+ [2014-10-09 13:40:07,637] [INFO ] (jdbc.connection:537)  - 1. Connection closed  org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:297)
+ [2014-10-09 13:40:07,637] [DEBUG] (jdbc.connection:539)  - open connections:  none
+ [2014-10-09 13:40:46,877] [INFO ] (com.lin.clould.web.command.CommandFactory:48)  - NodeList Length : 3
+ [2014-10-09 13:42:07,565] [INFO ] (com.lin.clould.web.command.CommandFactory:48)  - NodeList Length : 3
+ [2014-10-09 13:49:38,723] [INFO ] (com.lin.clould.web.command.CommandFactory:48)  - NodeList Length : 3
+ [2014-10-09 13:49:38,906] [DEBUG] (org.apache.ibatis.logging.LogFactory:124)  - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+ [2014-10-09 13:49:38,917] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:49:38,917] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:49:38,918] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:49:38,918] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:49:38,918] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:49:38,918] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:49:38,923] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:49:38,924] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:49:38,924] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:49:38,925] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:49:38,925] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:49:38,926] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:49:38,974] [INFO ] (com.lin.clould.web.command.CommandFactory:97)  - DefaultViewPath : /WEB-INF/jsp/
+ [2014-10-09 13:49:38,975] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 13:49:38,975] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@fe2558}
+ [2014-10-09 13:49:38,985] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/login
+ [2014-10-09 13:49:38,985] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=login, class=com.lin.clould.person.login.service.LoginServiceImpl@b6a6d6}
+ [2014-10-09 13:49:39,038] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:129)  - Opening JDBC Connection
+ [2014-10-09 13:49:39,239] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:378)  - Created connection 7200207.
+ [2014-10-09 13:49:39,239] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:95)  - Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@6dddcf]
+ [2014-10-09 13:49:39,241] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ooo Using Connection [oracle.jdbc.driver.T4CConnection@6dddcf]
+ [2014-10-09 13:49:39,242] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==>  Preparing: SELECT T1.* FROM USERS T1 WHERE T1.id = ? 
+ [2014-10-09 13:49:39,349] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:97)  - =====================================================================
+ [2014-10-09 13:49:39,351] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:98)  - sql : SELECT T1.*
+		FROM USERS T1
+		WHERE T1.id = ''
+ [2014-10-09 13:49:39,351] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:99)  - =====================================================================
+ [2014-10-09 13:49:39,352] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==> Parameters: (String)
+ [2014-10-09 13:49:39,372] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - <==      Total: 0
+ [2014-10-09 13:49:39,374] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:117)  - Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@6dddcf]
+ [2014-10-09 13:49:39,375] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:85)  - Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@6dddcf]
+ [2014-10-09 13:49:39,375] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:332)  - Returned connection 7200207 to pool.
+ [2014-10-09 13:50:13,131] [INFO ] (com.lin.clould.web.command.CommandFactory:48)  - NodeList Length : 3
+ [2014-10-09 13:50:13,248] [DEBUG] (org.apache.ibatis.logging.LogFactory:124)  - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+ [2014-10-09 13:50:13,256] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:50:13,256] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:50:13,256] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:50:13,256] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:50:13,259] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:50:13,259] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:50:13,259] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:50:13,260] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:50:13,260] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:50:13,260] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:50:13,260] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:50:13,260] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:304)  - PooledDataSource forcefully closed/removed all connections.
+ [2014-10-09 13:50:13,302] [INFO ] (com.lin.clould.web.command.CommandFactory:97)  - DefaultViewPath : /WEB-INF/jsp/
+ [2014-10-09 13:50:13,303] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/login
+ [2014-10-09 13:50:13,303] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=login, class=com.lin.clould.person.login.service.LoginServiceImpl@d63cb6}
+ [2014-10-09 13:50:13,356] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:129)  - Opening JDBC Connection
+ [2014-10-09 13:50:13,541] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:378)  - Created connection 30612442.
+ [2014-10-09 13:50:13,541] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:95)  - Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@1d31bda]
+ [2014-10-09 13:50:13,542] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ooo Using Connection [oracle.jdbc.driver.T4CConnection@1d31bda]
+ [2014-10-09 13:50:13,543] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==>  Preparing: SELECT T1.* FROM USERS T1 WHERE T1.id = ? 
+ [2014-10-09 13:50:13,633] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:97)  - =====================================================================
+ [2014-10-09 13:50:13,634] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:98)  - sql : SELECT T1.*
+		FROM USERS T1
+		WHERE T1.id = 'heo'
+ [2014-10-09 13:50:13,635] [DEBUG] (com.lin.clould.web.filter.MybatisLogInterceptor:99)  - =====================================================================
+ [2014-10-09 13:50:13,635] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - ==> Parameters: heo(String)
+ [2014-10-09 13:50:13,649] [DEBUG] (query.login.LoginSqlMapper.selectUserById:132)  - <==      Total: 1
+ [2014-10-09 13:50:13,652] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:117)  - Resetting autocommit to true on JDBC Connection [oracle.jdbc.driver.T4CConnection@1d31bda]
+ [2014-10-09 13:50:13,652] [DEBUG] (org.apache.ibatis.transaction.jdbc.JdbcTransaction:85)  - Closing JDBC Connection [oracle.jdbc.driver.T4CConnection@1d31bda]
+ [2014-10-09 13:50:13,652] [DEBUG] (org.apache.ibatis.datasource.pooled.PooledDataSource:332)  - Returned connection 30612442 to pool.
+ [2014-10-09 13:50:13,652] [INFO ] (com.lin.clould.person.login.service.LoginServiceImpl:38)  - LoginVO [id=heo, pw=heo, name=허정도]
+ [2014-10-09 13:50:13,656] [INFO ] (com.lin.clould.web.FrontController:68)  - RequestURI :/main
+ [2014-10-09 13:50:13,656] [INFO ] (com.lin.clould.web.command.CommandFactory:90)  - {defaultMethod=main, class=com.lin.clould.person.main.service.MainServiceImpl@dba6d7}
+ 
